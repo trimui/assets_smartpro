@@ -1,6 +1,11 @@
 # assets_smartpro
 Smart Pro TG5040 SD base package
 
+SD base package - 20240401
+=================================
+1. Update PPSSPP to 1.17.1 and enable vulkan suport.
+2. Update RetroArch to 1.18.0 and enable vulkan support.
+
 SD base package - 20231125
 =================================
 1. Disable NDS frameskip, lock CPU-freq to 1.6GHz, modify keymapping.
