@@ -1,6 +1,11 @@
 # assets_smartpro
 Smart Pro TG5040 SD base package
 
+SD base package - 20240413
+=================================
+1. Fallback PPSSPP CPU clock setting to default(modified .config\ppsspp\PSP\SYSTEM\ppsspp.ini).
+2. Remove PPSSPP RetroArch version named 'PSP' (moved to Emu/bak/PSP).
+
 SD base package - 20240401
 =================================
 1. Update PPSSPP to 1.17.1 and enable vulkan suport.
