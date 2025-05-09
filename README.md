@@ -1,6 +1,15 @@
 # assets_smartpro
 Smart Pro TG5040 SD base package
 
+SD base package - 20250430
+=================================
+1. The TRIMUI Brick icon definition is used, and the 1.1.0 system is also compatible with the previous 1.0.4 sdcard.
+2. Update RetroArch to version 1.20.0, add hotkey 'B + menu' to enter RetroArch's native menu.
+3. Update PPSSPP to 1.18.1 (same version as Brick).
+4. Add SS standalone emulator (as default).
+5. Added N64 standalone cores as an option: mupen64plus-gliden64-mk2/mupen64plus-gliden64-rice.
+6. Theme completion for firmware 1.1.0.
+
 SD base package - 20240413
 =================================
 1. Fallback PPSSPP CPU clock setting to default(modified .config\ppsspp\PSP\SYSTEM\ppsspp.ini).
